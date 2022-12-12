@@ -10,3 +10,5 @@ we develop the following 3 machine learning algorithms:
 in order to predict the median value of a property in the state of california.
 
 This project was written in <b>Matlab</b> and in collaboration with <b>Mirto Spatha( https://github.com/MirtoSpatha )</b>.
+
+ 
